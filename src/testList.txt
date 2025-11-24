@@ -1,0 +1,26 @@
+Aardvark
+Badger
+Cheetah
+Dolphin
+Eagle
+Fox
+Giraffe
+Hippo
+Ibex
+Jaguar
+Kangaroo
+Lion
+Moose
+Nile Monitor
+Owl
+Panda
+Quail
+Rhino
+Seal
+Tiger
+Unicorn
+Vulture
+Whale
+Xoloitzcuintli
+Yabby
+Zebra
